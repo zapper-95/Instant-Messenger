@@ -2,10 +2,7 @@
 ## Overview
 This code provides a simple instant messaging device using Python with TCP. It also allows users to upload files to the server. As a part of the networks module, my original coursework submission recieved 94/100.  
 
-
-
-https://github.com/zapper-95/Instant-Messenger/assets/92369126/8f289204-6382-4e76-a07d-2e60a8662dee
-
+https://github.com/zapper-95/Instant-Messenger/assets/92369126/354f1c08-e128-4580-93a6-386b0dd90b65
 
 
 ### Running the Server

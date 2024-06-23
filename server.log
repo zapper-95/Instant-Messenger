@@ -1,0 +1,9 @@
+Connected to by ('127.0.0.1', 49883) (joe)
+Connected to by ('127.0.0.1', 49885) (bob)
+joe: hello bob
+bob: hi joe
+joe: how are you doing?
+joe: goodbye
+bob: see ya
+Disconnected by ('127.0.0.1', 49883) (joe)
+Disconnected by ('127.0.0.1', 49885) (bob)
